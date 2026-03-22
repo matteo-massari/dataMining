@@ -1,0 +1,7 @@
+antecedent,consequent,confidence,lift,support,antecedent_str,consequent_str,rule
+['paper chain kit empire'],['wooden union jack bunting'],0.6923076923076923,11.32126696832579,0.03237410071942446,paper chain kit empire,wooden union jack bunting,paper chain kit empire -> wooden union jack bunting
+['set of 3 cake tins pantry design'],['set of 6 spice tins pantry design'],0.6666666666666666,20.59259259259259,0.02158273381294964,set of 3 cake tins pantry design,set of 6 spice tins pantry design,set of 3 cake tins pantry design -> set of 6 spice tins pantry design
+['set of 6 spice tins pantry design'],['set of 3 cake tins pantry design'],0.6666666666666666,20.59259259259259,0.02158273381294964,set of 6 spice tins pantry design,set of 3 cake tins pantry design,set of 6 spice tins pantry design -> set of 3 cake tins pantry design
+['white hanging heart t-light holder'],['wooden union jack bunting'],0.4375,7.154411764705882,0.025179856115107913,white hanging heart t-light holder,wooden union jack bunting,white hanging heart t-light holder -> wooden union jack bunting
+['wooden union jack bunting'],['paper chain kit empire'],0.5294117647058824,11.321266968325792,0.03237410071942446,wooden union jack bunting,paper chain kit empire,wooden union jack bunting -> paper chain kit empire
+['wooden union jack bunting'],['white hanging heart t-light holder'],0.4117647058823529,7.154411764705881,0.025179856115107913,wooden union jack bunting,white hanging heart t-light holder,wooden union jack bunting -> white hanging heart t-light holder
